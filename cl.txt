@@ -4,85 +4,85 @@ Respuesta 2: Gandhi bogaba por la no violencia
 Respuesta 3: Gandhi consideraba la violencia necesaria en casos extremos
 Respuesta Correcta: Gandhi consideraba la violencia necesaria en casos extremos
 
-Pregunta: El beneficio otorgado por la DADSE consiste en la entrega de medicamentos y/o elementos de tecnología sanitaria... Marque la única opción que resulta falsa:
+Pregunta: El beneficio otorgado por la DADSE, Dirección de Asistencia Directa por Situaciones Especiales, consiste en la entrega de medicamentos y/o elementos de tecnología sanitaria a todas aquellas personas en situación de vulnerabilidad que presenten un problema agudo o grave de salud en el que corre riesgo cierto su vida y que no cuenten con obra social, medicina prepaga, Incluir Salud, PAMI o cualquier otro tipo de cobertura o programa de salud, que no puedan satisfacer su necesidad por medio de los ministerios provinciales y/o secretarías de salud municipales.Marque la única opción que resulta falsa:
 Respuesta 1: La DADSE proporciona medicamentos y elementos de tecnología sanitaria a personas en situación de vulnerabilidad.
 Respuesta 2: El beneficio de la DADSE está destinado a personas que tengan problemas de salud grave sin ningún tipo de cobertura de salud.
 Respuesta 3: La DADSE ayuda a quienes enfrentan problemas de salud leves y no tienen acceso a otras formas de asistencia médica.
 Respuesta Correcta: La DADSE ayuda a quienes enfrentan problemas de salud leves y no tienen acceso a otras formas de asistencia médica.
 
-Pregunta: La vacunación durante el embarazo protege a la persona embarazada... De acuerdo al texto, marque la opción correcta:
+Pregunta: La vacunación durante el embarazo protege a la persona embarazada, ya que se producen cambios en el organismo que pueden aumentar la susceptibilidad y la gravedad de algunas enfermedades, como, por ejemplo, la gripe o COVID-19. También protege al futuro recién nacido, gracias al paso por la placenta de los anticuerpos maternos, que lo protegen de enfermedades que pueden ser muy graves en los primeros meses de la vida, como, por ejemplo, la tos convulsa o la bronquiolitis.De acuerdo al texto, marque la opción correcta:
 Respuesta 1: La vacunación durante el embarazo aumenta la susceptibilidad a enfermedades.
 Respuesta 2: La vacunación durante el embarazo protege de enfermedades que pueden ser más graves debido a cambios en el organismo.
 Respuesta 3: La vacunación durante el embarazo desarrolla inmunidad permanente contra las posibles enfermedades del recién nacido.
 Respuesta Correcta: La vacunación durante el embarazo protege de enfermedades que pueden ser más graves debido a cambios en el organismo.
 
-Pregunta: A partir del 1ro de julio de 2024 entra en vigencia la nueva reglamentación de la Ley Nacional de Receta Electrónica... De acuerdo al texto, marque la opción correcta:
+Pregunta: A partir del 1ro de julio de 2024 entra en vigencia la nueva reglamentación de la Ley Nacional de Receta Electrónica. A través del Decreto 345/2024, la normativa establece la necesidad de cambiar la modalidad de las prescripciones, hoy indicadas en papel, a recetarios de plataformas digitales.De acuerdo al texto, marque la opción correcta:
 Respuesta 1: La normativa del Decreto 345/2024 establece que las recetas deberán ser impresas con firma digital.
 Respuesta 2: La normativa del Decreto 345/2024 establece que pasará al uso de recetarios en plataformas digitales en lugar de prescripciones en papel.
 Respuesta 3: La normativa del Decreto 345/2024 establece que se aplazarán los cambios en la forma de prescripción actual.
 Respuesta Correcta: La normativa del Decreto 345/2024 establece que pasará al uso de recetarios en plataformas digitales en lugar de prescripciones en papel.
 
-Pregunta: El golpe de calor es un trastorno ocasionado por el aumento de la temperatura del cuerpo... De acuerdo al texto, marque la única opción falsa:
+Pregunta: El golpe de calor es un trastorno ocasionado por el aumento de la temperatura del cuerpo como consecuencia de la exposición prolongada a altas temperaturas y humedad o el esfuerzo físico intenso en altas temperaturas. El golpe de calor es una forma grave de lesión por calor y la temperatura del cuerpo alcanza los 40° C o más.De acuerdo al texto, marque la única opción falsa:
 Respuesta 1: El golpe de calor es un trastorno leve por exposición al calor durante mucho tiempo.
 Respuesta 2: El golpe de calor implica una exposición sostenida en el tiempo a altas temperaturas.
 Respuesta 3: El golpe de calor tiene como síntoma principal el aumento de la temperatura corporal
 Respuesta Correcta: El golpe de calor es un trastorno leve por exposición al calor durante mucho tiempo.
 
-Pregunta: El Parque Nacional Los Glaciares... En sus lentos movimientos estos gigantes ríos _____ forman constantemente siluetas caprichosas... Marque la palabra faltante:
+Pregunta: El Parque Nacional Los Glaciares se encuentra emplazado en las ecorregiones de la Estepa Patagónica y los Bosques Patagónicos. Su nombre evoca la magnitud de los numerosos glaciares que contornean el paisaje de la cordillera austral. En sus lentos movimientos estos gigantes ríos _____ forman constantemente siluetas caprichosas que avanzan y retroceden. Incluso, algunas de ellas recuerdan a puentes, diques y cavernas.Marque la palabra faltante:
 Respuesta 1: congelados
 Respuesta 2: oscilantes
 Respuesta 3: tumultuosos
 Respuesta Correcta: congelados
 
-Pregunta: La salud de los trabajadores constituye uno de los polos de la riqueza de un país... sus fluctuaciones a lo largo del tiempo son un _____ de este desarrollo. Marque la palabra faltante:
+Pregunta: La salud de los trabajadores constituye uno de los polos de la riqueza de un país. Siendo un elemento de alta interdependencia con aquellos factores que determinan el grado de desarrollo de una nación, sus fluctuaciones a lo largo del tiempo son un _____ de este desarrollo. Marque la palabra faltante: Marque la palabra faltante:
 Respuesta 1: resultado
 Respuesta 2: rol
 Respuesta 3: indicador
 Respuesta Correcta: indicador
 
-Pregunta: Escritorio Único (EU)... De acuerdo a este fragmento, marque la respuesta correcta:
+Pregunta:Escritorio Único (EU): Interfaz que permite navegar por todos los módulos que integran el sistema GDE, por ello, se lo considera la cara visible del GDE. Desde el EU se configura el acceso al Sistema de Gestión Documental Electrónica (GDE). Muestra un resumen de todas las tareas pendientes que el agente tiene en cada módulo y las organiza según un rango de antigüedad en días. Entre otras funcionalidades, permite visualizar las tareas en desarrollo y pendientes propias y de los supervisados. De acuerdo a este fragmento, marque la respuesta correcta:
 Respuesta 1: El EU permite gestionar únicamente el acceso al módulo de Gestión de Tareas Pendientes.
 Respuesta 2: El EU ofrece una interfaz que permite navegar por todos los módulos del sistema y muestra un resumen de tareas pendientes.
 Respuesta 3: El EU funciona como una herramienta independiente que no se integra con el resto del sistema GDE.
 Respuesta Correcta: El EU ofrece una interfaz que permite navegar por todos los módulos del sistema y muestra un resumen de tareas pendientes.
 
-Pregunta: Legajo Único Electrónico (LUE)... ¿Cuál es la función principal del Legajo Único Electrónico?
+Pregunta: Legajo Único Electrónico (LUE): Único medio de creación, registro, guarda y archivo de la totalidad de la documentación y datos correspondientes a las personas que prestan servicios en virtud de cualquier modalidad en el ámbito establecido en el artículo 8 de la Ley N° 24.156 de ADMINISTRACIÓN FINANCIERA Y DE LOS SISTEMAS DE CONTROL DEL SECTOR PÚBLICO NACIONAL y sus modificatorias. ¿Cuál es la función principal del Legajo Único Electrónico? ¿Cuál es la función principal del Legajo Único Electrónico?
 Respuesta 1: Proveer servicios de salud a los empleados
 Respuesta 2: Crear, registrar, guardar y archivar documentación de personas que prestan servicios
 Respuesta 3: Supervisar el cumplimiento de leyes laborales
 Respuesta Correcta: Crear, registrar, guardar y archivar documentación de personas que prestan servicios
 
-Pregunta: Gestor de Asistencias y Transferencias (GAT)... ¿Cuál es la función principal del GAT?
+Pregunta: Gestor de Asistencias y Transferencias (GAT): Único medio de registro, tramitación y pago de todas las prestaciones, beneficios, subsidios, exenciones, y toda otra transferencia y asistencia que las entidades y jurisdicciones contempladas en el artículo 8 de la Ley de Administración Financiera N° 24.156 y sus modificatorias otorguen a personas humanas o personas jurídicas públicas o privadas, independientemente de su fuente de financiamiento. ¿Cuál es la función principal del GAT?¿Cuál es la función principal del GAT?
 Respuesta 1: Supervisar el cumplimiento de la ley de administración financiera.
 Respuesta 2: Registrar, tramitar y pagar prestaciones, beneficios y subsidios.
 Respuesta 3: Controlar la calidad de servicios públicos.
 Respuesta Correcta: Registrar, tramitar y pagar prestaciones, beneficios y subsidios.
 
-Pregunta: Registro Propiedad Inmueble (RPI)... De acuerdo al texto, marque la única respuesta que resulta falsa:
+Pregunta: Registro Propiedad Inmueble (RPI): Único medio electrónico de tramitación y registración de documentación en el REGISTRO DE LA PROPIEDAD INMUEBLE DE LA CAPITAL FEDERAL del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS, en el marco de lo dispuesto por la Ley N° 17.801 y por el Decreto N° 466 del 5 de Mayo de 1999 y sus modificatorios. De acuerdo al texto, marque la única respuesta que resulta falsa:
 Respuesta 1: El RPI solo opera para propiedades en la Ciudad de Buenos Aires.
 Respuesta 2: El RPI fue establecido en 1999.
 Respuesta 3: El RPI permite la gestión de documentación relacionada con la compraventa de bienes muebles en la Capital Federal.
 Respuesta Correcta: El RPI permite la gestión de documentación relacionada con la compraventa de bienes muebles en la Capital Federal.
 
-Pregunta: Porta Firma (PF)... De acuerdo al texto, marque la única respuesta que resulta falsa:
+Pregunta: Porta Firma (PF): Administra la firma de los documentos electrónicos. A su vez, brinda la posibilidad de firmar varios documentos electrónicos al mismo tiempo y filtrar por lotes los documentos digitales a firmar.De acuerdo al texto, marque la única respuesta que resulta falsa:
 Respuesta 1: El Porta Firma permite la firma simultánea de documentos.
 Respuesta 2: El Porta Firma facilita el filtrado por lotes.
 Respuesta 3: El Porta Firma admite la firma de documentos en papel.
 Respuesta Correcta: El Porta Firma admite la firma de documentos en papel.
 
-Pregunta: Trámites a Distancia (TAD)... Plataforma que facilita la interacción mediante la recepción y envío _____ de presentaciones... Marque la palabra faltante:
+Pregunta: Trámites a Distancia (TAD): Plataforma que facilita la interacción entre los ciudadanos y la administración mediante la recepción y envío _____ de presentaciones, solicitudes, escritos, notificaciones y comunicaciones, entre otros.Marque la palabra faltante:
 Respuesta 1: electrónico
 Respuesta 2: físico
 Respuesta 3: rápido
 Respuesta Correcta: electrónico
 
-Pregunta: El artículo 112 del Convenio Colectivo de Trabajo General... ¿Qué regula el artículo 112...?
+Pregunta: El artículo 112 del Convenio Colectivo de Trabajo General para la Administración Pública Nacional, aprobado por el Decreto Nº 214/2006, establece las directrices para los derechos y condiciones de trabajo de los empleados de la administración pública en Argentina. Este artículo, junto a otros del mismo convenio, orienta temas como la estabilidad laboral, las políticas de igualdad de oportunidades y trato, y las condiciones para la organización y representación sindical en el ámbito público. ¿Qué regula el artículo 112 del Convenio Colectivo de Trabajo General para la Administración Pública Nacional?¿Qué regula el artículo 112...?
 Respuesta 1: La contratación temporal en la administración pública
 Respuesta 2: Los derechos y condiciones de trabajo de los empleados públicos
 Respuesta 3: La gestión de recursos financieros en la administración pública
 Respuesta Correcta: Los derechos y condiciones de trabajo de los empleados públicos
 
-Pregunta: La ley 25188 de Ética en el ejercicio de la Función Pública... De acuerdo al texto, marque la única respuesta falsa:
+Pregunta: La ley 25188 de Ética en el ejercicio de la Función Pública establece un conjunto de deberes, prohibiciones e incompatibilidades aplicables, sin excepción, a todas las personas que se desempeñen en la función pública en todos sus niveles y jerarquías, en forma permanente o transitoria, por elección popular, designación directa, por concurso o por cualquier otro medio legal, extendiéndose su aplicación a todos los magistrados, funcionarios y empleados del Estado. De acuerdo al texto, marque la única respuesta falsa: De acuerdo al texto, marque la única respuesta falsa:
 Respuesta 1: La ley de Ética busca promover la transparencia y la integridad en el ejercicio de la función pública.
 Respuesta 2: La ley de Ética aplica para todo el empleo formal en el país.
 Respuesta 3: La ley de Ética establece un marco de deberes y prohibiciones que regule el comportamiento de los funcionarios públicos.
