@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comprensión Lectora</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-content">
+            <div class="navbar-logo">
+                <img src="LOGO-removebg-preview.png" alt="Logo">
+            </div>
+        </div>
+    </nav>
+    <div class="stats">
+        Correctas: <span id="correct-count">0</span> | 
+        Incorrectas: <span id="incorrect-count">0</span>
+    </div>
+
+    <div class="main-content">
+        <h1>Examen</h1>
+        <div class="progress">Cargando preguntas...</div>
+        
+        <div id="questions-container">
+            <!-- Las preguntas se generarán dinámicamente aquí -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

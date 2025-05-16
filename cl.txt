@@ -1,0 +1,230 @@
+Pregunta: No puedo enseñarte violencia, ya que no creo en ella. Solo puedo enseñarte a no inclinarte ante ella. (Mahatma Gandhi) ¿Cuál de las siguientes afirmaciones sobre esta frase resulta falsa?
+Respuesta 1: Gandhi enseñaba a resistir sin recurrir a la violencia
+Respuesta 2: Gandhi bogaba por la no violencia
+Respuesta 3: Gandhi consideraba la violencia necesaria en casos extremos
+Respuesta Correcta: Gandhi consideraba la violencia necesaria en casos extremos
+
+Pregunta: El beneficio otorgado por la DADSE consiste en la entrega de medicamentos y/o elementos de tecnología sanitaria... Marque la única opción que resulta falsa:
+Respuesta 1: La DADSE proporciona medicamentos y elementos de tecnología sanitaria a personas en situación de vulnerabilidad.
+Respuesta 2: El beneficio de la DADSE está destinado a personas que tengan problemas de salud grave sin ningún tipo de cobertura de salud.
+Respuesta 3: La DADSE ayuda a quienes enfrentan problemas de salud leves y no tienen acceso a otras formas de asistencia médica.
+Respuesta Correcta: La DADSE ayuda a quienes enfrentan problemas de salud leves y no tienen acceso a otras formas de asistencia médica.
+
+Pregunta: La vacunación durante el embarazo protege a la persona embarazada... De acuerdo al texto, marque la opción correcta:
+Respuesta 1: La vacunación durante el embarazo aumenta la susceptibilidad a enfermedades.
+Respuesta 2: La vacunación durante el embarazo protege de enfermedades que pueden ser más graves debido a cambios en el organismo.
+Respuesta 3: La vacunación durante el embarazo desarrolla inmunidad permanente contra las posibles enfermedades del recién nacido.
+Respuesta Correcta: La vacunación durante el embarazo protege de enfermedades que pueden ser más graves debido a cambios en el organismo.
+
+Pregunta: A partir del 1ro de julio de 2024 entra en vigencia la nueva reglamentación de la Ley Nacional de Receta Electrónica... De acuerdo al texto, marque la opción correcta:
+Respuesta 1: La normativa del Decreto 345/2024 establece que las recetas deberán ser impresas con firma digital.
+Respuesta 2: La normativa del Decreto 345/2024 establece que pasará al uso de recetarios en plataformas digitales en lugar de prescripciones en papel.
+Respuesta 3: La normativa del Decreto 345/2024 establece que se aplazarán los cambios en la forma de prescripción actual.
+Respuesta Correcta: La normativa del Decreto 345/2024 establece que pasará al uso de recetarios en plataformas digitales en lugar de prescripciones en papel.
+
+Pregunta: El golpe de calor es un trastorno ocasionado por el aumento de la temperatura del cuerpo... De acuerdo al texto, marque la única opción falsa:
+Respuesta 1: El golpe de calor es un trastorno leve por exposición al calor durante mucho tiempo.
+Respuesta 2: El golpe de calor implica una exposición sostenida en el tiempo a altas temperaturas.
+Respuesta 3: El golpe de calor tiene como síntoma principal el aumento de la temperatura corporal
+Respuesta Correcta: El golpe de calor es un trastorno leve por exposición al calor durante mucho tiempo.
+
+Pregunta: El Parque Nacional Los Glaciares... En sus lentos movimientos estos gigantes ríos _____ forman constantemente siluetas caprichosas... Marque la palabra faltante:
+Respuesta 1: congelados
+Respuesta 2: oscilantes
+Respuesta 3: tumultuosos
+Respuesta Correcta: congelados
+
+Pregunta: La salud de los trabajadores constituye uno de los polos de la riqueza de un país... sus fluctuaciones a lo largo del tiempo son un _____ de este desarrollo. Marque la palabra faltante:
+Respuesta 1: resultado
+Respuesta 2: rol
+Respuesta 3: indicador
+Respuesta Correcta: indicador
+
+Pregunta: Escritorio Único (EU)... De acuerdo a este fragmento, marque la respuesta correcta:
+Respuesta 1: El EU permite gestionar únicamente el acceso al módulo de Gestión de Tareas Pendientes.
+Respuesta 2: El EU ofrece una interfaz que permite navegar por todos los módulos del sistema y muestra un resumen de tareas pendientes.
+Respuesta 3: El EU funciona como una herramienta independiente que no se integra con el resto del sistema GDE.
+Respuesta Correcta: El EU ofrece una interfaz que permite navegar por todos los módulos del sistema y muestra un resumen de tareas pendientes.
+
+Pregunta: Legajo Único Electrónico (LUE)... ¿Cuál es la función principal del Legajo Único Electrónico?
+Respuesta 1: Proveer servicios de salud a los empleados
+Respuesta 2: Crear, registrar, guardar y archivar documentación de personas que prestan servicios
+Respuesta 3: Supervisar el cumplimiento de leyes laborales
+Respuesta Correcta: Crear, registrar, guardar y archivar documentación de personas que prestan servicios
+
+Pregunta: Gestor de Asistencias y Transferencias (GAT)... ¿Cuál es la función principal del GAT?
+Respuesta 1: Supervisar el cumplimiento de la ley de administración financiera.
+Respuesta 2: Registrar, tramitar y pagar prestaciones, beneficios y subsidios.
+Respuesta 3: Controlar la calidad de servicios públicos.
+Respuesta Correcta: Registrar, tramitar y pagar prestaciones, beneficios y subsidios.
+
+Pregunta: Registro Propiedad Inmueble (RPI)... De acuerdo al texto, marque la única respuesta que resulta falsa:
+Respuesta 1: El RPI solo opera para propiedades en la Ciudad de Buenos Aires.
+Respuesta 2: El RPI fue establecido en 1999.
+Respuesta 3: El RPI permite la gestión de documentación relacionada con la compraventa de bienes muebles en la Capital Federal.
+Respuesta Correcta: El RPI permite la gestión de documentación relacionada con la compraventa de bienes muebles en la Capital Federal.
+
+Pregunta: Porta Firma (PF)... De acuerdo al texto, marque la única respuesta que resulta falsa:
+Respuesta 1: El Porta Firma permite la firma simultánea de documentos.
+Respuesta 2: El Porta Firma facilita el filtrado por lotes.
+Respuesta 3: El Porta Firma admite la firma de documentos en papel.
+Respuesta Correcta: El Porta Firma admite la firma de documentos en papel.
+
+Pregunta: Trámites a Distancia (TAD)... Plataforma que facilita la interacción mediante la recepción y envío _____ de presentaciones... Marque la palabra faltante:
+Respuesta 1: electrónico
+Respuesta 2: físico
+Respuesta 3: rápido
+Respuesta Correcta: electrónico
+
+Pregunta: El artículo 112 del Convenio Colectivo de Trabajo General... ¿Qué regula el artículo 112...?
+Respuesta 1: La contratación temporal en la administración pública
+Respuesta 2: Los derechos y condiciones de trabajo de los empleados públicos
+Respuesta 3: La gestión de recursos financieros en la administración pública
+Respuesta Correcta: Los derechos y condiciones de trabajo de los empleados públicos
+
+Pregunta: La ley 25188 de Ética en el ejercicio de la Función Pública... De acuerdo al texto, marque la única respuesta falsa:
+Respuesta 1: La ley de Ética busca promover la transparencia y la integridad en el ejercicio de la función pública.
+Respuesta 2: La ley de Ética aplica para todo el empleo formal en el país.
+Respuesta 3: La ley de Ética establece un marco de deberes y prohibiciones que regule el comportamiento de los funcionarios públicos.
+Respuesta Correcta: La ley de Ética aplica para todo el empleo formal en el país.
+
+
+Pregunta: ¿Qué forma de gobierno adopta la Nación Argentina?
+Respuesta 1: Representativa, Republicana y Federal
+Respuesta 2: Democrática, Popular y Federal
+Respuesta 3: Democrática, Republicana y Federal
+Respuesta 4: Democrática, Representativa y Republicana
+Respuesta Correcta: Representativa, Republicana y Federal
+
+Pregunta: ¿Cuál es el mecanismo para reformar la Constitución Nacional?
+Respuesta 1: A través de un decreto del presidente
+Respuesta 2: Por decisión del Poder Judicial
+Respuesta 3: Mediante la convocatoria a una Convención Constituyente
+Respuesta 4: Por una consulta popular sin intervención del Congreso
+Respuesta Correcta: Mediante la convocatoria a una Convención Constituyente
+
+Pregunta: ¿Cuántos años dura el mandato de los senadores?
+Respuesta 1: 4 años
+Respuesta 2: 6 años
+Respuesta 3: 8 años
+Respuesta 4: 2 años
+Respuesta Correcta: 6 años
+
+Pregunta: ¿Cómo puede vetar el Poder Ejecutivo una ley?
+Respuesta 1: No puede vetar
+Respuesta 2: Sólo puede vetar la ley en su totalidad
+Respuesta 3: Sólo puede vetar algunos artículos de las leyes
+Respuesta 4: Puede vetar total y parcialmente las leyes
+Respuesta Correcta: Puede vetar total y parcialmente las leyes
+
+Pregunta: ¿En qué circunstancias pueden las personas solicitar un hábeas corpus?
+Respuesta 1: Cuando se viola su derecho a la privacidad
+Respuesta 2: Cuando desean impugnar una ley que consideran injusta
+Respuesta 3: Cuando se afecta su libertad física o son maltratadas mientras están detenidas
+Respuesta 4: Cuando buscan obtener una revisión rápida de cualquier sentencia judicial
+Respuesta Correcta: Cuando se afecta su libertad física o son maltratadas mientras están detenidas
+
+Pregunta: ¿Qué constituye un distrito electoral en Argentina según el Código Electoral Nacional?
+Respuesta 1: Cada departamento y comuna del país
+Respuesta 2: La Ciudad Autónoma de Buenos Aires y cada provincia
+Respuesta 3: Las subdivisiones de los municipios
+Respuesta 4: Las agrupaciones de electores según su domicilio
+Respuesta Correcta: La Ciudad Autónoma de Buenos Aires y cada provincia
+
+Pregunta: Según el Código Electoral Nacional, ¿quién tiene la responsabilidad de designar a los fiscales en el proceso electoral?
+Respuesta 1: El presidente de la Nación
+Respuesta 2: Los partidos políticos
+Respuesta 3: La Cámara Nacional Electoral
+Respuesta 4: Los votantes en cada distrito
+Respuesta Correcta: Los partidos políticos
+
+Pregunta: ¿Cuándo se considera positivo el silencio de la administración?
+Respuesta 1: Cuando la administración emite una resolución expresa en el plazo previsto
+Respuesta 2: Cuando una norma exige una autorización administrativa para que los particulares puedan realizar una conducta y el plazo vence sin resolución expresa
+Respuesta 3: Cuando el plazo para la resolución expresa aún no ha vencido
+Respuesta 4: Cuando se trate de pretensiones que no sean autorizaciones y requieran que la Administración se pronuncie
+Respuesta Correcta: Cuando una norma exige una autorización administrativa para que los particulares puedan realizar una conducta y el plazo vence sin resolución expresa
+
+Pregunta: ¿Cuál es la restricción aplicable a los funcionarios que hayan intervenido en la privatización o concesión de empresas o servicios públicos?
+Respuesta 1: No pueden trabajar en empresas privadas durante los tres años siguientes a su intervención
+Respuesta 2: No pueden participar en ningún tipo de actividad pública durante tres años
+Respuesta 3: Tienen prohibido actuar en los entes o comisiones reguladoras de las empresas o servicios privatizados durante tres años después de la última adjudicación en la que hayan participado
+Respuesta 4: Deben esperar cinco años para poder actuar en cualquier ente regulador relacionado con sus actividades anteriores
+Respuesta Correcta: Tienen prohibido actuar en los entes o comisiones reguladoras de las empresas o servicios privatizados durante tres años después de la última adjudicación en la que hayan participado
+
+Pregunta: ¿Qué regla general se establece respecto a los funcionarios públicos y la recepción de obsequios?
+Respuesta 1: Los funcionarios públicos pueden recibir obsequios siempre que no superen un valor determinado
+Respuesta 2: Los funcionarios públicos no podrán recibir regalos, obsequios o donaciones en ocasión del desempeño de sus funciones
+Respuesta 3: Los funcionarios públicos pueden recibir obsequios si son de cortesía diplomática, sin necesidad de registrarlos
+Respuesta 4: Los funcionarios públicos pueden recibir obsequios, siempre que los declaren ante la autoridad competente
+Respuesta Correcta: Los funcionarios públicos no podrán recibir regalos, obsequios o donaciones en ocasión del desempeño de sus funciones
+
+Pregunta: ¿Cómo se prueba la calidad de elector para ejercer el derecho al voto según el Código Electoral?
+Respuesta 1: Demostrando tener más de 16 años
+Respuesta 2: Mediante la inclusión del elector en el registro electoral
+Respuesta 3: A través de una certificación emitida por el Poder Ejecutivo
+Respuesta 4: Presentando el Documento Nacional de Identidad (DNI) el día de la elección
+Respuesta Correcta: Mediante la inclusión del elector en el registro electoral
+
+Pregunta: ¿Cómo está conformado el sistema de control interno?
+Respuesta 1: Por la Sindicatura General de la Nación y las unidades de auditoría externa
+Respuesta 2: Por la Sindicatura General de la Nación y las unidades de auditoría interna en cada jurisdicción
+Respuesta 3: Por la Auditoría General de la Nación y las unidades de control financiero
+Respuesta 4: Por la Sindicatura General de la Nación y el Congreso de la Nación
+Respuesta Correcta: Por la Sindicatura General de la Nación y las unidades de auditoría interna en cada jurisdicción
+
+Pregunta: ¿Quién es la autoridad de mesa en las elecciones según el Código Electoral Argentino?
+Respuesta 1: Un elector designado como presidente de la mesa
+Respuesta 2: Un elector designado como presidente de la mesa y un vicepresidente nombrado para asistirlo
+Respuesta 3: Un miembro de la Junta Electoral que supervisa el proceso de votación
+Respuesta 4: Un delegado de cada partido político presente en la mesa
+Respuesta Correcta: Un elector designado como presidente de la mesa
+
+Pregunta: ¿Qué es un voto recurrido según el Código Electoral Argentino?
+Respuesta 1: Un voto emitido por un elector que no está registrado en el padrón electoral
+Respuesta 2: Un voto cuya validez o nulidad es cuestionada por un fiscal
+Respuesta 3: Un voto que contiene marcas en más de una opción electoral
+Respuesta 4: Un voto que no fue emitido dentro del horario oficial de la elección
+Respuesta Correcta: Un voto cuya validez o nulidad es cuestionada por un fiscal
+
+Pregunta: ¿Qué sanción le corresponde a un funcionario público que acepta dinero para firmar un expediente?
+Respuesta 1: Inhabilitación especial temporal sin prisión
+Respuesta 2: Prisión y multa económica
+Respuesta 3: Prisión e inhabilitación especial perpetua
+Respuesta 4: Multa económica y suspensión de sus funciones
+Respuesta Correcta: Prisión e inhabilitación especial perpetua
+
+Pregunta: ¿Qué condiciones deben cumplirse para que un acto administrativo de alcance particular y uno de alcance general adquieran eficacia?
+Respuesta 1: El acto de alcance particular debe ser publicado en el Boletín Oficial y el de alcance general debe ser notificado al interesado
+Respuesta 2: Ambos tipos de actos deben ser notificados al interesado y publicados en el Boletín Oficial
+Respuesta 3: El acto de alcance particular debe ser notificado al interesado, y el de alcance general debe ser publicado en el Boletín Oficial
+Respuesta 4: Ninguno de los actos necesita cumplir con un procedimiento específico para adquirir eficacia
+Respuesta Correcta: El acto de alcance particular debe ser notificado al interesado, y el de alcance general debe ser publicado en el Boletín Oficial
+
+Pregunta: ¿Cuáles son los órganos rectores de los sistemas de control interno y externo del sector público nacional?
+Respuesta 1: La Auditoría General de la Nación para el control interno y la Sindicatura General de la Nación para el control externo
+Respuesta 2: La Sindicatura General de la Nación para el control interno y la Auditoría General de la Nación para el control externo
+Respuesta 3: El Ministerio de Economía para el control interno y la Auditoría General de la Nación para el control externo
+Respuesta 4: La Secretaría de Hacienda para el control interno y el Tribunal de Cuentas para el control externo
+Respuesta Correcta: La Sindicatura General de la Nación para el control interno y la Auditoría General de la Nación para el control externo
+
+Pregunta: ¿Qué organismos están incluidos en el art. 8 inciso a) de la Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional?
+Respuesta 1: La Administración Nacional, conformada por la Administración Central y los Organismos Descentralizados
+Respuesta 2: Empresas y Sociedades del Estado
+Respuesta 3: Entes Públicos con autarquía financiera y personalidad jurídica propia
+Respuesta 4: Fondos Fiduciarios del Estado nacional
+Respuesta Correcta: La Administración Nacional, conformada por la Administración Central y los Organismos Descentralizados
+
+Pregunta: ¿En cuál de los siguientes casos se considera que un acto administrativo es de nulidad absoluta e insanable?
+Respuesta 1: Cuando se dicta con errores menores de procedimiento
+Respuesta 2: Cuando careciere de causa por no existir o ser falsos los hechos o el derecho invocado
+Respuesta 3: Cuando el acto administrativo tiene errores de ortografía
+Respuesta 4: Cuando el acto es emitido por una autoridad de menor rango que la requerida
+Respuesta Correcta: Cuando careciere de causa por no existir o ser falsos los hechos o el derecho invocado
+
+Pregunta: ¿Qué tipo de nulidades pueden tener los actos administrativos?
+Respuesta 1: Absoluta o relativa
+Respuesta 2: Absoluta o contundente
+Respuesta 3: Relativa o contundente
+Respuesta 4: Absoluta o provisoria
+Respuesta Correcta: Absoluta o relativa

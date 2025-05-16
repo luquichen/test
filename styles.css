@@ -1,0 +1,192 @@
+/* Estilo general del body */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+/* Contenedor principal del contenido (excluye navbar) */
+.main-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Título principal */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Contenedor de cada pregunta */
+.question-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Texto de la pregunta */
+.question-text {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+/* Cita o texto citado */
+.quote {
+    font-style: italic;
+    color: #555;
+    margin: 10px 0;
+    padding-left: 15px;
+    border-left: 3px solid #3498db;
+}
+
+/* Contenedor de opciones */
+.options-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Estilo de cada opción */
+.option-card {
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #ecf0f1;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.option-card:hover {
+    background-color: #d6eaf8;
+    border-color: #3498db;
+}
+
+/* Opciones correctas o incorrectas */
+.option-card.correct {
+    background-color: #2ecc71;
+    color: white;
+}
+
+.option-card.incorrect {
+    background-color: #e74c3c;
+    color: white;
+}
+
+/* Botón de siguiente */
+.next-btn {
+    display: block;
+    margin: 20px auto 0;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s;
+}
+
+.next-btn:hover {
+    background-color: #2980b9;
+}
+
+/* Elementos ocultos */
+.hidden {
+    display: none;
+}
+
+/* Texto de progreso */
+.progress {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #7f8c8d;
+}
+
+/* Estilo general de la navbar */
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f8f8f8;
+    flex-wrap: wrap;
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: 0px 10px 155px -5px rgba(0,0,0,0.1);
+    margin-bottom: 4rem;
+}
+
+/* Logo */
+.navbar-logo img {
+    padding-top: 6px;
+    height: 50px;
+    width: auto;
+}
+
+/* Título del sitio en la navbar */
+.navbar-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: 15px;
+    color: #333;
+}
+
+/* Contenido interno de la navbar centrado */
+.navbar-content {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+/* Responsive: navbar en pantallas pequeñas */
+@media (max-width: 600px) {
+    .navbar {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .navbar-title {
+        margin-left: 10px;
+        font-size: 1.2rem;
+    }
+
+    .navbar-logo img {
+        height: 35px;
+    }
+}
+
+/* Contadores de estadísticas */
+.stats {
+    text-align: center;
+    margin-bottom: 0px;
+    color: #666;
+    font-size: 0.9em;
+}
+
+/* Mensaje de desaprobado */
+.fail-message {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.fail-message button {
+    background-color: #dc3545;
+    margin-top: 15px;
+    padding: 8px 20px;
+}
+
+.fail-message button:hover {
+    background-color: #c82333;
+}
